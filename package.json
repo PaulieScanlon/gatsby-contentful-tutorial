@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-contentful-tutorial",
+  "version": "1.0.0",
+  "description": "A Gatsby + Contentful example repo",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/gatsby-contentful-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/gatsby-contentful-tutorial/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/gatsby-contentful-tutorial#readme",
+  "dependencies": {
+    "gatsby": "^4.20.0",
+    "gatsby-plugin-image": "^2.20.0",
+    "gatsby-source-contentful": "^7.18.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
